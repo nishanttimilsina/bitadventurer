@@ -1,4 +1,7 @@
-from flask import Flask, render_template, url_for
+# [START app]
+import logging
+
+from flask import Flask, render_template, request
 
 app = Flask(__name__)
 
