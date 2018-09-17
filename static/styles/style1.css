@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: floralwhite;
+}
+
+h1 {
+    color: skyblue;
+    text-align: left;
+}
+
+p {
+    font-family: Arial;
+    font-size: 20px;
+}
